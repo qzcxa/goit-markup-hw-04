@@ -50,3 +50,30 @@
   text-align: center;
   color: #434455;
 }
+.team-list-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.team-item-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  margin-top: 8px;
+  width: 40px;
+  height: 40px;
+  background: #4d5ae5;
+
+
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition-property: background-color;
+}
+.team-item-icon:hover,
+.team-item-icon:focus {
+  background-color:  #404bbf;
+}
+.team-icon {
+    color: #fff;
+}

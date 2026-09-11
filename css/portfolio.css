@@ -4,9 +4,8 @@
 .portfolio-container {
   display: flex;
   align-items: center;
-  
 }
-.portfolio-content{
+.portfolio-content {
   border: 1px solid #e7e9fc;
   border-top: none;
   padding: 32px 16px;
@@ -47,4 +46,12 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.portfolio-content {
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  
 }

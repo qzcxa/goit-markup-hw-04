@@ -26,3 +26,19 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.feature-wrapper{
+display: flex;
+align-items: center;
+justify-content: center;
+
+border: 1px solid #8e8f99;
+border-radius: 4px;
+background: #f4f4fd;
+margin-bottom: 24px;
+width: 264px;
+height: 112px;
+
+}
+.feature-icon{
+
+}
