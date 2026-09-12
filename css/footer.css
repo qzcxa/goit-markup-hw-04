@@ -27,6 +27,9 @@
   margin-top: 0;
   letter-spacing: 0.02em;
 }
+.footer-text-social {
+    letter-spacing: 0.02em;
+}
 .footer-wrapper {
   display: flex;
   align-items: flex-start;
